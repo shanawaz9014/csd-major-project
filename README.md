@@ -1,1 +1,3 @@
-# csd-major-project
+EduCreator: Generative AI-Powered Smart Educational Content Creation Platform
+
+EduCreator is a generative-AI platform that helps educators create structured teaching content quickly. It uses the Google Gemini API with JSON-schema validation, so every output has a consistent, checkable layout and is retried automatically if it is invalid. Educators choose a topic, grade level and difficulty to generate nine content types: lecture notes, slide decks, quizzes, assignments, lab manuals, flashcards, question banks and study guides with rubrics. Content can be saved to a content hub and exported as PDF, DOCX, TXT or JSON. The platform is built with Django, secured with role-based access control, and includes an AI chat assistant and an admin analytics dashboard.
